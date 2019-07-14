@@ -64,7 +64,7 @@ mutation DeleteUser($toRemoveId: Int!) {
   }
 }
 ```
-###Query Variables
+### Query Variables
 ```json
 {
   "userId": 14,
